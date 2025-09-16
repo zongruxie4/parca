@@ -85,7 +85,7 @@
     "eslint-plugin-typescript-enum": "2.1.0",
     "execa": "6.1.0",
     "fs-extra": "10.1.0",
-    "glob-promise": "5.0.1",
+    "glob-promise": "6.0.0",
     "globby": "13.2.2",
     "identity-obj-proxy": "3.0.0",
     "internal-ip": "7.0.0",
